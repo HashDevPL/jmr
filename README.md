@@ -1,5 +1,7 @@
 # jmr
 
+JMR Technologies Recruitment task done with Vue
+
 ## Project setup
 ```
 npm install
